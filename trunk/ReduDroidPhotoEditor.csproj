@@ -63,7 +63,7 @@
     <Folder Include="Resources\Layout\" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidAsset Include="Assets\Content\deserto.jpg" />
+    <AndroidAsset Include="Assets\Content\Images\alphaChannel.png" />
     <Content Include="Properties\AndroidManifest.xml">
       <SubType>Designer</SubType>
     </Content>

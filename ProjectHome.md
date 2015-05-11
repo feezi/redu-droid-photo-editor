@@ -1,0 +1,1 @@
+Editor de fotos para o Redu Droid.
